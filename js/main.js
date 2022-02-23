@@ -1,6 +1,7 @@
 /* ===================================================================
- * Epitome - Main JS
- *
+ * Epitome - Main JSsdssd  sds dgit status
+
+ *  sdasdasdasdasdasdasdasdasd changedgit status
  * ------------------------------------------------------------------- */
 
 (function($) {
